@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <Title> RankmyList: Login Options </Title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+
+</head>
+
+<body>
+    <div class="container">
+        <div class="form">
+            <div class="btn">
+                <button class="signUpBtn">SIGN UP</button>
+                <button class="loginBtn">LOG IN</button>
+            </div>
+            <form action="" class="signUp">
+                <div class="formGroup">
+                    <input type="text" name="name" id="user name" placeholder="User Name" autocomplete="off">
+                </div>
+                <div class="formGroup">
+                    <input type="email" name="email" id="Email" placeholder="Email" autocomplete="off">
+                </div>
+                <div class="formGroup">
+                    <input type="password" name="password" id="password" placeholder="Password" autocomplete="off">
+                </div>
+                <div class="formGroup">
+                    <input type="password" name="confirmpassword" id="confirmpassword" placeholder="Confirm password"
+                        autocomplete="off">
+                </div>
+                <!--Adding Check Box -->
+                <div class="checkBox">
+                    <input type="checkbox" name="checkbox" id="checkbox">
+                    <span class="text">I agree with terms and conditions</span>
+                </div>
+                <div class="formGroup">
+                    <button class="btn2">Register</button>
+                </div>
+            </form>
+
+            <!--Let's create a Login Form Now-->
+            <form action="" class="login">
+                <div class="formGroup">
+                    <input type="email" name="email" id="Email" placeholder="Email" autocomplete="off">
+                </div>
+                <div class="formGroup">
+                    <input type="password" name="password" id="password" placeholder="Password" autocomplete="off">
+                </div>
+                <div class="formGroup">
+                    <input type="password" name="confirmpassword" id="confirmpassword" placeholder="Confirm password"
+                        autocomplete="off">
+                </div>
+                <!--Adding Check Box -->
+                <div class="checkBox">
+                    <input type="checkbox" name="checkbox" id="checkbox">
+                    <span class="text">Keep me signed in on this device.</span>
+                </div>
+                <div class="formGroup">
+                    <button class="btn2">Login</button>
+                </div>
+            </form>
+
+        </div>
+    </div>
+    <!-- <a href="C:\Users\llego\Desktop\Website Prototype\Login.html    ">
+        <button>Login</button>
+    </a>
+        <div>
+        </div>
+       <br>
+        <div>
+            <a href="C:\Users\llego\Desktop\Website Prototype\Register.html">
+                <button>Register</button>
+            </a>
+        </div>
+        <p>If you have an account, click Submit, otherwise please
+            register.</p>-->
+    <!-- Adding Javascript file in HTML--> 
+    <script src="jQuery.js"></script>
+</body>
+</html>
