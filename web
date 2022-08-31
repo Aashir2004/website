@@ -1,0 +1,316 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <Title>RankmyList: Top 10 Anime of All Time</Title>
+    <link rel="stylesheet" href="web.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+</head>
+
+<body>
+    <div class="header">
+        <h1>Top 10 Ranking Anime</h1>
+        <p>By: Aashir Mallik</p>
+        <span class="Intro">Welcome Anime Fans! It's time for an anime fanatic like myself to give
+            my completely objective view on the anime I have watched. This list is
+            non-negotiable Hamza ;)<br><br></span>
+            <a href="C:/Users/llego/Desktop/Website%20Prototype/Form.html" class="btn2">Login</a>
+    </div><br>
+    <div class="container">
+        <div class="form">
+            <div class="separator">
+                <div class="line"></div>
+                <h2>Number 1: Fullmetal Alchemist: Brotherhood</h2>
+                <div class="line"></div>
+            </div> <span class="creator">Made by: Studio Bones</span>
+            <span class="rank">10.0/10.0</span>
+            <div class="image">
+                <img src="fmab.jpg" alt="" width="350" height="400">
+            </div>
+            <div id="myDIV">
+                <div id="blueDIV">
+                    <div class="flex-container"><br><br>
+                        <div>"Something of equal value must be lost in order for something of greater value to be
+                            gained."
+                            The youthful Elric brothers, Edward and Alphonse, first became aware of this Law of
+                            Equivalent Exchange after trying human transmutation, the one prohibited act of alchemy,
+                            which is governed by it. Edward loses his left leg as a result of their sin, while Alphonse
+                            loses his physical body. The only way Edward is able to attach Alphonse's soul to a set of
+                            armour is through the desperate sacrifice of his right arm. Devastated and alone, Edward is
+                            inspired to acquire metal limbs known as "automail" and become a state alchemist, the
+                            Fullmetal Alchemist. He is motivated by the belief that they would both someday return to
+                            their natural bodies.
+                            After three years of looking, the brothers are still looking for the Philosopher's Stone, a
+                            fabled artefact that enables an alchemist to break the Law of Equivalent Exchange. The
+                            brothers become involved in a national conspiracy that leads them to the true nature of the
+                            elusive Philosopher's Stone as well as their nation's murky history, despite having military
+                            allies Colonel Roy Mustang, Lieutenant Riza Hawkeye, and Lieutenant Colonel Maes Hughes on
+                            their side. Edward and Alphonse must decide whether their actions will restore their
+                            humanity or take it away.</div>
+                    </div>
+                </div>
+            </div><br><br>
+
+            <div class="separator">
+                <div class="line"></div>
+                <h2>Number 2: Clannad</h2>
+                <div class="line"></div>
+            </div> <span class="creator">Made by: Kyoto Animation</span>
+            <span class="rank">9.2/10.0</span>
+            <div class="image">
+                <img src="clannad.jpg" alt="" width="350" height="400">
+            </div>
+            <div id="myDIV">
+                <div id="blueDIV">
+                    <div class="flex-container"><br><br>
+                        <div>Tomoya is a third-year high school student who is resentful. His father turned to booze and
+                            gambling after his mother passed away. In the years since his mother passed away, Tomoya has
+                            grown
+                            estranged from his father and turned into a troublemaker. He encounters Nagisa Furukawa on
+                            the way
+                            to school, who is a year older but repeating the grade owing to illness. Since most of her
+                            friends
+                            have gone on, she is by herself. After the two start hanging together, Tomoya notices that
+                            his life
+                            is starting to take a different turn..</div>
+                    </div><br><br>
+                    <div class="separator">
+                        <div class="line"></div>
+                        <h2>Number 3: Code Geass: Lelouch of the Rebellion</h2>
+                        <div class="line"></div>
+                    </div> <span class="creator">Made by: Studio Sunrise</span>
+                    <span class="rank">9.0/10.0</span>
+                    <div class="image">
+                        <img src="code.jpg" alt="" width="350" height="400">
+                    </div>
+                    <div id="myDIV">
+                        <div id="blueDIV">
+                            <div class="flex-container"><br><br>
+                                <div>The Holy Empire of Britannia began a campaign of conquest on August 10th, 2010,
+                                    with Japan as its target. Thanks to Britannia's use of new mobile humanoid armour
+                                    vehicles known as Knightmare Frames, operations were finished in one month. Japan's
+                                    rights and identity were taken away, and the formerly proud country is now known as
+                                    Area 11. While the Britannian elite lives well in their communities, its residents,
+                                    known as Elevens, are forced to eke out an existence. Area 11 contains small pockets
+                                    of opposition that support Japan's independence.<br>
+                                    Lelouch, a British Imperial Prince in exile who is passing as a student, finds
+                                    himself right in the middle of the struggle that is still going on for the island
+                                    country. Lelouch acquires his Geass, or the power of the king, through a fortuitous
+                                    encounter with a mysterious female named C.C. Lelouch may finally succeed in his
+                                    mission to overthrow Britannia from inside now that he has ultimate power over
+                                    everyone!</div>
+                            </div>
+                        </div>
+                    </div><br><br>
+                    <div class="separator">
+                        <div class="line"></div>
+                        <h2>Number 4: Steins;Gate</h2>
+                        <div class="line"></div>
+                    </div> <span class="creator">Made by: White Fox</span>
+                    <span class="rank">9.0/10.0</span>
+                    <div class="image">
+                        <img src="steins.jpg" alt="" width="350" height="400">
+                    </div>
+                    <div id="myDIV">
+                        <div id="blueDIV">
+                            <div class="flex-container"><br><br>
+                                <div>Okabe Rintarou, a self-described crazy scientist, works in a small room in
+                                    Akihabara wherehe creates "future inventions" with Hashida Itaru, an otaku hacker,
+                                    and Shiina Mayuri, an airhead pal from childhood. While waiting, the three
+                                    experiment with their most recent invention, a "Phone Microwave" that responds to
+                                    text messages.<br>
+                                    The lab workers immediately encounter a series of strange occurrences that
+                                    eventually lead to a pivotal discovery: the Phone Microwave has the ability to send
+                                    emails into the past and so change history. The highly acclaimed graphic novel
+                                    Steins;Gate, which was adapted by 5pb. and Nitroplus, plunges Okabe into the abyss
+                                    of scientific theory and human misery as he grapples with the grave repercussions of
+                                    changing the past.</div>
+                            </div>
+                        </div>
+                    </div>
+                    <br><br>
+                    <div class="separator">
+                        <div class="line"></div>
+                        <h2>Number 5: Tokyo Revengers </h2>
+                        <div class="line"></div>
+                    </div> <span class="creator">Made by: LidenFilms </span>
+                    <span class="rank">8.9/10.0</span>
+                    <div class="image">
+                        <img src="tr.jpg" alt="" width="350" height="400">
+                    </div>
+                    <div id="myDIV">
+                        <div id="blueDIV">
+                            <div class="flex-container"><br><br>
+                                <div>Takemichi Hanagaki is a freelancer who has descended into the depths of
+                                    hopelessness. He learns that the brutal Tokyo Manji Gang had murdered Hinata
+                                    Tachibana, the only girlfriend he ever had and someone he dated in middle
+                                    school.<br>
+                                    He is standing on the station platform the day after learning of her passing when a
+                                    crowd of people pushes him onto the rails. When he opens his eyes again, he has
+                                    mysteriously travelled back in time 12 years while believing that he is about to
+                                    pass away.<br>
+                                    Takemichi intends to exact revenge on his life by saving his love and transforming
+                                    himself now that he is once again enjoying the happiest days of his life.</div>
+                            </div>
+                        </div>
+                    </div><br><br>
+
+                    <div class="separator">
+                        <div class="line"></div>
+                        <h2>Number 6: Naruto </h2>
+                        <div class="line"></div>
+                    </div> <span class="creator">Made by: Studio Pierrot</span>
+                    <span class="rank">8.8/10.0</span>
+                    <div class="image">
+                        <img src="naruto.jpg" alt="" width="350" height="400">
+                    </div>
+                    <div id="myDIV">
+                        <div id="blueDIV">
+                            <div class="flex-container"><br><br>
+                                <div>The hyperactive and brash ninja Naruto Uzumaki resides in Konohagakure, the Hidden
+                                    Leaf village. A massive monster known as the Kyuubi, the Nine-tailed Fox, ravaged
+                                    Konohagakure just before his birth and inflicted destruction. The 4th Hokage, the
+                                    head of the village, gave his life to stop the Kyuubi's rampage by sealing the
+                                    monster beast inside the newborn Naruto.<br>
+                                    Naruto struggles to fit in since the Kyuubi that lives inside of him causes him to
+                                    be shunned. He encounters both allies and enemies as he works to become the Hokage
+                                    of Konohagakure.</div>
+                            </div>
+                        </div>
+                    </div><br><br>
+
+                    <div class="separator">
+                        <div class="line"></div>
+                        <h2>Number 7: Attack on Titan </h2>
+                        <div class="line"></div>
+                    </div> <span class="creator">Made by: MAPPA/WitStudio </span>
+                    <span class="rank">8.7/10.0</span>
+                    <div class="image">
+                        <img src="aot.jpg" alt="" width="350" height="400">
+                    </div>
+                    <div id="myDIV">
+                        <div id="blueDIV">
+                            <div class="flex-container"><br><br>
+                                <div>Titans nearly wiped out humanity several hundred years ago. Titans are often many
+                                    stories tall, lack brains, and consume people. Worse yet, they appear to do so for
+                                    enjoyment rather than as a means of subsisting. A small portion of mankind managed
+                                    to live by barricading themselves inside a city enclosed by walls that were even
+                                    higher than the tallest of titans.<br>
+                                    In the current, the city has not seen a titan in more than a century. A gigantic
+                                    giant that materialises out of thin air destroys the city walls, and teenage boy
+                                    Eren and his foster sister Mikasa watch this horrifying event. The two youngsters
+                                    watch in terror as their mother is swept away by the smaller titans flooding the
+                                    metropolis.Eren swears to kill each and every titan in order to exact retribution on
+                                    humanity as a whole.</div>
+                            </div>
+                        </div>
+                    </div>
+                    <br><br>
+                    <div class="separator">
+                        <div class="line"></div>
+                        <h2>Number 8: Death Note </h2>
+                        <div class="line"></div>
+                    </div> <span class="creator">Made by: MadHouse </span>
+                    <span class="rank">8.6/10.0</span>
+                    <div class="image">
+                        <img src="deathnote.jpg" alt="" width="350" height="400">
+                    </div>
+                    <div id="myDIV">
+                        <div id="blueDIV">
+                            <div class="flex-container"><br><br>
+                                <div>High school student Light Yagami, a genius, is preparing to study a book of death
+                                    in order to learn more about life. Ryuk, a bored Shinigami and the God of Death,
+                                    accidentally drops a Death Note giving Light instant control over both life and
+                                    death. Light sets out to purge the world of evil—specifically, the individuals he
+                                    considers to be evil—determined to make the best use of this awful gift. Should
+                                    anyone possess such authority?</div>
+                            </div>
+                        </div>
+                    </div><br><br>
+
+                    <div class="separator">
+                        <div class="line"></div>
+                        <h2>Number 9: Bleach </h2>
+                        <div class="line"></div>
+                    </div> <span class="creator">Made by: Studio Pierrot </span>
+                    <span class="rank">8.5/10.0</span>
+                    <div class="image">
+                        <img src="bleach.png" alt="" width="350" height="400">
+                    </div>
+                    <div id="myDIV">
+                        <div id="blueDIV">
+                            <div class="flex-container"><br><br>
+                                <div>With the exception of his ability to see ghosts, Ichigo Kurosaki is a very typical
+                                    high school student. Until the day he meets the Shinigami Kuchiki Rukia, who saves
+                                    him and his family from a Hollow, a wicked spirit that eats human souls, this talent
+                                    had never had a significant impact on his life.<br>
+                                    Rukia, who was hurt during the battle with the Hollow, decides to give Ichigo her
+                                    Shinigami abilities as the only way to get rid of the monster. Ichigo now has to
+                                    fill in for Rukia while she recovers and hunts down the Hollows that are destroying
+                                    his village.</div>
+                            </div>
+                        </div>
+                    </div><br><br>
+
+                    <div class="separator">
+                        <div class="line"></div>
+                        <h2>Number 10: Dr.Stone </h2>
+                        <div class="line"></div>
+                    </div> <span class="creator">Made by: TMS Entertainment </span>
+                    <span class="rank">8.5/10.0</span>
+                    <div class="image">
+                        <img src="DS.jpg" alt="" width="350" height="400">
+                    </div>
+                    <div id="myDIV">
+                        <div id="blueDIV">
+                            <div class="flex-container"><br><br>
+                                <div>High school student Taiju Ooki, who has been holding affections for Yuzuriha Ogawa
+                                    for five years, is now prepared to profess his love to her. However, just as Taiju
+                                    starts to confess, a bright green light envelops the planet, terrifying everyone on
+                                    it and turning them all into stone.<br>
+                                    A few millennia later, when Taiju awakens, he discovers that the modern period has
+                                    totally vanished and that nature has regenerated during the time that people were
+                                    silent. Taiju only comes across one other living person in the stone world of
+                                    statues: his science-obsessed friend Senkuu, who has been active for a few months.
+                                    Taiju discovers Senkuu's ambitious plan to use science to bring in a total
+                                    restoration of civilisation. Together, Taiju's strength and Senkuu's intelligence
+                                    form a strong team that quickly discovers a way to resuscitate the petrified.<br>
+                                    However, when his ideals are contested by those who awaken, Senkuu's grand scheme is
+                                    put in jeopardy. The cause of humanity's petrification is still a mystery.</div>
+                            </div>
+                        </div>
+                    </div>
+                </div><br><br>
+                <div class="footnote">
+                    <div class="menu">
+                        <p>More Info</p>
+                        <p></p>
+                        <a href="#" class="fa fa-instagram"></a>
+                        <a href="#" class="fa fa-twitter"></a>
+                        <a href="#" class="fa fa-youtube"></a>
+                    </div>
+                </div>
+
+
+</body>
+
+<!--
+    <p>Agree With The Rating?</p>
+        <a href="https://9anime.id/watch/fullmetal-alchemist-brotherhood.0r7/ep-1">Click Here to Watch</a>
+        <a href="https://9anime.id/watch/clannad.3r3r/ep-1">Click Here to Watch</a>:
+        <a href="https://9anime.id/watch/code-geass-lelouch-of-the-rebellion.2x52/ep-1"> Click here to Watch</a>
+        <a href="https://9anime.id/watch/steinsgate.1rx">Click Here to Watch</a>
+        <a href="https://9anime.id/watch/tokyo-revengers.vpq4/ep-0">Click Here to Watch</a>     
+        <a href="https://9anime.id/watch/naruto.xx8z/ep-1">Click Here to Watch</a>
+        <a href="https://9anime.id/watch/attack-on-titan.kww/ep-1">Click Here to Watch</a>
+        <a href="https://9anime.id/watch/death-note.z02/ep-1">Click Here to Watch</a>
+        <a href="https://9anime.id/watch/bleach.6j9/ep-1">Click Here to Watch</a>   
+        <a href="https://9anime.id/watch/dr-stone.lo6q/ep-1">Click Here to Watch</a>
+-->
+<script>src = "apps.js"</script>
+
+</html>
